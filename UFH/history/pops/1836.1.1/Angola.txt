@@ -65,74 +65,39 @@
 	aristocrats = {
 		culture = nigger
 		religion = animist
-		size = 100
+		size = 200
 	}
 
 	clergymen = {
 		culture = nigger
 		religion = animist
-		size = 100
+		size = 200
 	}
 
 	artisans = {
 		culture = nigger
 		religion = animist
-		size = 500
+		size = 600
 	}
 
 	soldiers = {
 		culture = nigger
 		religion = animist
-		size = 100
+		size = 200
 	}
 
 	farmers = {
 		culture = nigger
 		religion = animist
-		size = 5200
+		size = 12800
 	}
 
 	slaves = {
 		culture = nigger
 		religion = animist
-		size = 27000
+		size = 30000
 	}
 
-	aristocrats = {
-		culture = nigger
-		religion = animist
-		size = 100
-	}
-
-	clergymen = {
-		culture = nigger
-		religion = animist
-		size = 100
-	}
-
-	artisans = {
-		culture = nigger
-		religion = animist
-		size = 100
-	}
-
-	soldiers = {
-		culture = nigger
-		religion = animist
-		size = 100
-	}
-
-	farmers = {
-		culture = nigger
-		religion = animist
-		size = 7600
-	}
-
-	slaves = {
-		culture = nigger
-		religion = animist
-		size = 3000
-	}
 }
 #uncolonized in 1836
 #2001 - Mbanza (180000/45000 POPS)
@@ -164,80 +129,45 @@
 	farmers = {
 		culture = nigger
 		religion = catholic
-		size = 7350
+		size = 7250
 	}
 
 	aristocrats = {
 		culture = nigger
 		religion = animist
-		size = 200
+		size = 400
 	}
 
 	clergymen = {
 		culture = nigger
 		religion = animist
-		size = 150
+		size = 300
 	}
 
 	artisans = {
 		culture = nigger
 		religion = animist
-		size = 1100
+		size = 1800
 	}
 
 	soldiers = {
 		culture = nigger
 		religion = animist
-		size = 1200
+		size = 1400
 	}
 
 	farmers = {
 		culture = nigger
 		religion = animist
-		size = 12450
+		size = 25700
 	}
 
 	slaves = {
 		culture = nigger
 		religion = animist
-		size = 4000
+		size = 7500
 	}
-
-	aristocrats = {
-		culture = nigger
-		religion = animist
-		size = 200
-	}
-
-	clergymen = {
-		culture = nigger
-		religion = animist
-		size = 150
-	}
-
-	artisans = {
-		culture = nigger
-		religion = animist
-		size = 700
-	}
-
-	soldiers = {
-		culture = nigger
-		religion = animist
-		size = 200
-	}
-
-	farmers = {
-		culture = nigger
-		religion = animist
-		size = 13250
-	}
-
-	slaves = {
-		culture = nigger
-		religion = animist
-		size = 3500
-	}
+	
 }
 #Quibala (120000/30000 POPS)
 2002 = {
@@ -284,6 +214,35 @@
 2000 = {
 	aristocrats = {
 		culture = nigger
+		religion = catholic
+		size = 425
+	}
+
+	clergymen = {
+		culture = nigger
+		religion = catholic
+		size = 225
+	}
+
+	artisans = {
+		culture = nigger
+		religion = catholic
+		size = 900
+	}
+
+	soldiers = {
+		culture = nigger
+		religion = catholic
+		size = 225
+	}
+
+	farmers = {
+		culture = nigger
+		religion = catholic
+		size = 15225
+	}
+	aristocrats = {
+		culture = nigger
 		religion = animist
 		size = 125
 	}
@@ -316,36 +275,6 @@
 		culture = nigger
 		religion = animist
 		size = 5000
-	}
-
-	aristocrats = {
-		culture = nigger
-		religion = catholic
-		size = 425
-	}
-
-	clergymen = {
-		culture = nigger
-		religion = catholic
-		size = 225
-	}
-
-	artisans = {
-		culture = nigger
-		religion = catholic
-		size = 900
-	}
-
-	soldiers = {
-		culture = nigger
-		religion = catholic
-		size = 225
-	}
-
-	farmers = {
-		culture = nigger
-		religion = catholic
-		size = 15225
 	}
 
 }
@@ -512,73 +441,37 @@
 	aristocrats = {
 		culture = nigger
 		religion = animist
-		size = 50
+		size = 225
 	}
 
 	clergymen = {
 		culture = nigger
 		religion = animist
-		size = 75
+		size = 250
 	}
 
 	artisans = {
 		culture = nigger
 		religion = animist
-		size = 75
+		size = 875
 	}
 
 	soldiers = {
 		culture = nigger
 		religion = animist
-		size = 50
+		size = 250
 	}
 
 	farmers = {
 		culture = nigger
 		religion = animist
-		size = 2400
+		size = 13850
 	}
 
 	slaves = {
 		culture = nigger
 		religion = animist
-		size = 1350
-	}
-
-	aristocrats = {
-		culture = nigger
-		religion = animist
-		size = 175
-	}
-
-	clergymen = {
-		culture = nigger
-		religion = animist
-		size = 175
-	}
-
-	artisans = {
-		culture = nigger
-		religion = animist
-		size = 800
-	}
-
-	soldiers = {
-		culture = nigger
-		religion = animist
-		size = 200
-	}
-
-	farmers = {
-		culture = nigger
-		religion = animist
-		size = 11450
-	}
-
-	slaves = {
-		culture = nigger
-		religion = animist
-		size = 3200
+		size = 4550
 	}
 }
 #Ondjiva (36000/9000 POPS)
