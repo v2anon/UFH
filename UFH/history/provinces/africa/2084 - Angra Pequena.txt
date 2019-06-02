@@ -1,5 +1,0 @@
-add_core = NMB
-terrain = desert
-trade_goods = precious_metal
-life_rating = 10
-colonial = 1
