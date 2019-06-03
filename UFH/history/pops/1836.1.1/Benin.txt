@@ -5,109 +5,37 @@
 	aristocrats = {
 		culture = nigger
 		religion = animist
-		size = 1950
+		size = 2550
 	}
 
 	clergymen = {
-		culture = nigger
-		religion = animist
-		size = 1100
-	}
-
-	artisans = {
-		culture = nigger
-		religion = animist
-		size = 4100
-	}
-
-	soldiers = {
-		culture = nigger
-		religion = animist
-		size = 1000
-	}
-
-	farmers = {
-		culture = nigger
-		religion = animist
-		size = 59950
-	}
-
-	slaves = {
-		culture = nigger
-		religion = animist
-		size = 4000
-	}
-
-	aristocrats = {
-		culture = nigger
-		religion = animist
-		size = 550
-	}
-
-	clergymen = {
-		culture = nigger
-		religion = animist
-		size = 300
-	}
-
-	artisans = {
 		culture = nigger
 		religion = animist
 		size = 1500
 	}
 
-	soldiers = {
-		culture = nigger
-		religion = animist
-		size = 300
-	}
-
-	farmers = {
-		culture = nigger
-		religion = animist
-		size = 27350
-	}
-
-	slaves = {
-		culture = nigger
-		religion = animist
-		size = 26000
-	}
-
-	aristocrats = {
-		culture = nigger
-		religion = animist
-		size = 50
-	}
-
-	clergymen = {
-		culture = nigger
-		religion = animist
-		size = 100
-	}
-
 	artisans = {
 		culture = nigger
 		religion = animist
-		size = 200
+		size = 5800
 	}
 
 	soldiers = {
 		culture = nigger
 		religion = animist
-		size = 50
+		size = 1250
 	}
 
 	farmers = {
 		culture = nigger
 		religion = animist
-		size = 3600
+		size = 90900
 	}
 
 	slaves = {
 		culture = nigger
 		religion = animist
-		size = 4000
+		size = 34000
 	}
 }
 #Abomey (480000/120000 POPS)
@@ -115,7 +43,7 @@
 	aristocrats = {
 		culture = nigger
 		religion = animist
-		size = 2100
+		size = 2300
 	}
 
 	bureaucrats = {
@@ -133,109 +61,31 @@
 	clergymen = {
 		culture = nigger
 		religion = animist
-		size = 1100
+		size = 1350
 	}
 
 	artisans = {
 		culture = nigger
 		religion = animist
-		size = 4250
+		size = 4850
 	}
 
 	soldiers = {
 		culture = nigger
 		religion = animist
-		size = 3000
-	}
-
-	soldiers = {
-		culture = nigger
-		religion = animist
-		size = 100
+		size = 8650
 	}
 
 	farmers = {
 		culture = nigger
 		religion = animist
-		size = 83250
+		size = 90550
 	}
 
 	slaves = {
 		culture = nigger
 		religion = animist
-		size = 8000
-	}
-
-	aristocrats = {
-		culture = nigger
-		religion = animist
-		size = 100
-	}
-
-	clergymen = {
-		culture = nigger
-		religion = animist
-		size = 100
-	}
-
-	artisans = {
-		culture = nigger
-		religion = animist
-		size = 400
-	}
-
-	soldiers = {
-		culture = nigger
-		religion = animist
-		size = 100
-	}
-
-	farmers = {
-		culture = nigger
-		religion = animist
-		size = 7300
-	}
-
-	slaves = {
-		culture = nigger
-		religion = animist
-		size = 2000
-	}
-
-	aristocrats = {
-		culture = nigger
-		religion = animist
-		size = 100
-	}
-
-	clergymen = {
-		culture = nigger
-		religion = animist
-		size = 150
-	}
-
-	artisans = {
-		culture = nigger
-		religion = animist
-		size = 300
-	}
-
-	soldiers = {
-		culture = nigger
-		religion = animist
-		size = 50
-	}
-
-	farmers = {
-		culture = nigger
-		religion = animist
-		size = 5400
-	}
-
-	slaves = {
-		culture = nigger
-		religion = animist
-		size = 2000
+		size = 12000
 	}
 }
 #Borgu Region (76000) #see Nigeria.txt for balance of region  

@@ -93,73 +93,37 @@
 	aristocrats = {
 		culture = nigger
 		religion = animist
-		size = 500
+		size = 825
 	}
 
 	clergymen = {
 		culture = nigger
 		religion = animist
-		size = 250
+		size = 425
 	}
 
 	artisans = {
 		culture = nigger
 		religion = animist
-		size = 1050
+		size = 1775
 	}
 
 	soldiers = {
 		culture = nigger
 		religion = animist
-		size = 275
+		size = 450
 	}
 
 	farmers = {
 		culture = nigger
 		religion = animist
-		size = 20925
+		size = 32525
 	}
 
 	slaves = {
 		culture = nigger
 		religion = animist
-		size = 3000
-	}
-
-	aristocrats = {
-		culture = nigger
-		religion = animist
-		size = 325
-	}
-
-	clergymen = {
-		culture = nigger
-		religion = animist
-		size = 175
-	}
-
-	artisans = {
-		culture = nigger
-		religion = animist
-		size = 725
-	}
-
-	soldiers = {
-		culture = nigger
-		religion = animist
-		size = 175
-	}
-
-	farmers = {
-		culture = nigger
-		religion = animist
-		size = 11600
-	}
-
-	slaves = {
-		culture = nigger
-		religion = animist
-		size = 5000
+		size = 8000
 	}
 }
 #Sanaga-Kadei Region (940000)
@@ -169,73 +133,37 @@
 	aristocrats = {
 		culture = nigger
 		religion = animist
-		size = 525
+		size = 1675
 	}
 
 	clergymen = {
 		culture = nigger
 		religion = animist
-		size = 275
+		size = 850
 	}
 
 	artisans = {
 		culture = nigger
 		religion = animist
-		size = 1125
+		size = 3450
 	}
 
 	soldiers = {
 		culture = nigger
 		religion = animist
-		size = 275
+		size = 875
 	}
 
 	farmers = {
 		culture = nigger
 		religion = animist
-		size = 16800
+		size = 56150
 	}
 
 	slaves = {
 		culture = nigger
 		religion = animist
-		size = 9000
-	}
-
-	aristocrats = {
-		culture = nigger
-		religion = animist
-		size = 1150
-	}
-
-	clergymen = {
-		culture = nigger
-		religion = animist
-		size = 575
-	}
-
-	artisans = {
-		culture = nigger
-		religion = animist
-		size = 2325
-	}
-
-	soldiers = {
-		culture = nigger
-		religion = animist
-		size = 600
-	}
-
-	farmers = {
-		culture = nigger
-		religion = animist
-		size = 39350
-	}
-
-	slaves = {
-		culture = nigger
-		religion = animist
-		size = 14000
+		size = 23000
 	}
 }
 #Bafoussam (276000/69000 POPS)
@@ -281,73 +209,37 @@
 	aristocrats = {
 		culture = nigger
 		religion = animist
-		size = 1225
+		size = 1550
 	}
 
 	clergymen = {
 		culture = nigger
 		religion = animist
-		size = 625
+		size = 800
 	}
 
 	artisans = {
 		culture = nigger
 		religion = animist
-		size = 2500
+		size = 3225
 	}
 
 	soldiers = {
 		culture = nigger
 		religion = animist
-		size = 625
+		size = 800
 	}
 
 	farmers = {
 		culture = nigger
 		religion = animist
-		size = 34025
+		size = 44625
 	}
 
 	slaves = {
 		culture = nigger
 		religion = animist
-		size = 17000
-	}
-
-	aristocrats = {
-		culture = nigger
-		religion = animist
-		size = 325
-	}
-
-	clergymen = {
-		culture = nigger
-		religion = animist
-		size = 175
-	}
-
-	artisans = {
-		culture = nigger
-		religion = animist
-		size = 725
-	}
-
-	soldiers = {
-		culture = nigger
-		religion = animist
-		size = 175
-	}
-
-	farmers = {
-		culture = nigger
-		religion = animist
-		size = 10600
-	}
-
-	slaves = {
-		culture = nigger
-		religion = animist
-		size = 6000
+		size = 33000
 	}
 }
 #Kwararafa Region (372000) #see Nigeria.txt for balance of region   
@@ -478,13 +370,13 @@
 	aristocrats = {
 		culture = nigger
 		religion = sunni
-		size = 700
+		size = 900
 	}
 
 	clergymen = {
 		culture = nigger
 		religion = sunni
-		size = 800
+		size = 1000
 	}
 
 	artisans = {
@@ -496,25 +388,13 @@
 	soldiers = {
 		culture = nigger
 		religion = sunni
-		size = 400
+		size = 600
 	}
 
 	farmers = {
 		culture = nigger
 		religion = sunni
-		size = 21400
-	}
-
-	aristocrats = {
-		culture = nigger
-		religion = sunni
-		size = 200
-	}
-
-	clergymen = {
-		culture = nigger
-		religion = sunni
-		size = 200
+		size = 36000
 	}
 
 	artisans = {
@@ -522,49 +402,7 @@
 		religion = sunni
 		size = 800
 	}
-
-	soldiers = {
-		culture = nigger
-		religion = sunni
-		size = 200
-	}
-
-	farmers = {
-		culture = nigger
-		religion = sunni
-		size = 14600
-	}
-
-	aristocrats = {
-		culture = bedouin
-		religion = sunni
-		size = 300
-	}
-
-	clergymen = {
-		culture = bedouin
-		religion = sunni
-		size = 200
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = sunni
-		size = 1100
-	}
-
-	soldiers = {
-		culture = bedouin
-		religion = sunni
-		size = 200
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = sunni
-		size = 18300
-	}
-
+	
 	aristocrats = {
 		culture = nigger
 		religion = animist
@@ -599,6 +437,36 @@
 		culture = nigger
 		religion = animist
 		size = 12000
+	}
+	
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 300
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 200
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 1100
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 200
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 18300
 	}
 
 }

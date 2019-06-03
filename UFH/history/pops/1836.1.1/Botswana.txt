@@ -37,61 +37,31 @@
 	aristocrats = {
 		culture = nigger
 		religion = animist
-		size = 15
+		size = 40
 	}
 
 	clergymen = {
 		culture = nigger
 		religion = animist
-		size = 25
+		size = 75
 	}
 
 	artisans = {
 		culture = nigger
 		religion = animist
-		size = 50
+		size = 150
 	}
 
 	soldiers = {
 		culture = nigger
 		religion = animist
-		size = 10
+		size = 35
 	}
 
 	farmers = {
 		culture = nigger
 		religion = animist
-		size = 900
-	}
-
-	aristocrats = {
-		culture = nigger
-		religion = animist
-		size = 25
-	}
-
-	clergymen = {
-		culture = nigger
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = nigger
-		religion = animist
-		size = 100
-	}
-
-	soldiers = {
-		culture = nigger
-		religion = animist
-		size = 25
-	}
-
-	farmers = {
-		culture = nigger
-		religion = animist
-		size = 1800
+		size = 2700
 	}
 }
 #Tshabong (12000/3000 POPS) 
@@ -105,55 +75,31 @@
 	clergymen = {
 		culture = nigger
 		religion = animist
-		size = 50
+		size = 75
 	}
 
 	artisans = {
 		culture = nigger
 		religion = animist
-		size = 100
+		size = 150
 	}
 
 	soldiers = {
 		culture = nigger
 		religion = animist
-		size = 25
+		size = 35
 	}
 
 	farmers = {
 		culture = nigger
 		religion = animist
-		size = 1800
+		size = 2700
 	}
 
 	aristocrats = {
 		culture = nigger
 		religion = animist
 		size = 15
-	}
-
-	clergymen = {
-		culture = nigger
-		religion = animist
-		size = 25
-	}
-
-	artisans = {
-		culture = nigger
-		religion = animist
-		size = 50
-	}
-
-	soldiers = {
-		culture = nigger
-		religion = animist
-		size = 10
-	}
-
-	farmers = {
-		culture = nigger
-		religion = animist
-		size = 900
 	}
 }
 #Mochidi (16000/4000 POPS) 
@@ -194,61 +140,31 @@
 	aristocrats = {
 		culture = nigger
 		religion = animist
-		size = 30
+		size = 60
 	}
 
 	clergymen = {
 		culture = nigger
 		religion = animist
-		size = 30
+		size = 80
 	}
 
 	artisans = {
 		culture = nigger
 		religion = animist
-		size = 100
+		size = 200
 	}
 
 	soldiers = {
 		culture = nigger
 		religion = animist
-		size = 40
+		size = 60
 	}
 
 	farmers = {
 		culture = nigger
 		religion = animist
-		size = 1800
-	}
-
-	aristocrats = {
-		culture = nigger
-		religion = animist
-		size = 30
-	}
-
-	clergymen = {
-		culture = nigger
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = nigger
-		religion = animist
-		size = 100
-	}
-
-	soldiers = {
-		culture = nigger
-		religion = animist
-		size = 20
-	}
-
-	farmers = {
-		culture = nigger
-		religion = animist
-		size = 1800
+		size = 3600
 	}
 
 }

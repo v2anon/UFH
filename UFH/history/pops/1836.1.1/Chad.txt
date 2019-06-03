@@ -128,61 +128,31 @@
 	aristocrats = {
 		culture = nigger
 		religion = sunni
-		size = 100
+		size = 300
 	}
 
 	clergymen = {
 		culture = nigger
 		religion = sunni
-		size = 100
+		size = 200
 	}
 
 	artisans = {
 		culture = nigger
 		religion = sunni
-		size = 400
+		size = 900
 	}
 
 	soldiers = {
 		culture = nigger
 		religion = sunni
-		size = 500
+		size = 12500
 	}
 
 	farmers = {
 		culture = nigger
 		religion = sunni
 		size = 8000
-	}
-	
-	aristocrats = {
-		culture = nigger
-		religion = sunni
-		size = 200
-	}
-
-	clergymen = {
-		culture = nigger
-		religion = sunni
-		size = 100
-	}
-
-	artisans = {
-		culture = nigger
-		religion = sunni
-		size = 500
-	}
-
-	soldiers = {
-		culture = nigger
-		religion = sunni
-		size = 1000
-	}
-
-	farmers = {
-		culture = nigger
-		religion = sunni
-		size = 11000
 	}
 
 	aristocrats = {
@@ -224,13 +194,7 @@
 	slaves = {
 		culture = nigger
 		religion = animist
-		size = 4000
-	}
-
-	slaves = {
-		culture = nigger
-		religion = animist
-		size = 2000
+		size = 6000
 	}
 }
 #Bongor (36000/9000 POPS)
@@ -268,7 +232,7 @@
 	farmers = {
 		culture = nigger
 		religion = animist
-		size = 30000
+		size = 32000
 	}
 
 	aristocrats = {
@@ -318,12 +282,6 @@
 		religion = sunni
 		size = 3000
 	}
-
-	farmers = {
-		culture = nigger
-		religion = animist
-		size = 2000
-	}
 }
 #Wadai Region (488000)
 #under the rule of Wadai in 1836
@@ -332,13 +290,13 @@
 	aristocrats = {
 		culture = nigger
 		religion = sunni
-		size = 100
+		size = 400
 	}
 
 	bureaucrats = {
 		culture = nigger
 		religion = sunni
-		size = 50
+		size = 150
 	}
 
 	officers = {
@@ -350,61 +308,25 @@
 	clergymen = {
 		culture = nigger
 		religion = sunni
-		size = 50
+		size = 150
 	}
 
 	artisans = {
 		culture = nigger
 		religion = sunni
-		size = 100
+		size = 600
 	}
 
 	soldiers = {
 		culture = nigger
 		religion = sunni
-		size = 100
+		size = 1100
 	}
 
 	farmers = {
 		culture = nigger
 		religion = sunni
-		size = 550
-	}
-
-	aristocrats = {
-		culture = nigger
-		religion = sunni
-		size = 300
-	}
-	
-	bureaucrats = {
-		culture = nigger
-		religion = sunni
-		size = 100
-	}
-
-	clergymen = {
-		culture = nigger
-		religion = sunni
-		size = 100
-	}
-
-	artisans = {
-		culture = nigger
-		religion = sunni
-		size = 500
-	}
-
-	soldiers = {
-		culture = nigger
-		religion = sunni
-		size = 1000
-	}
-
-	farmers = {
-		culture = nigger
-		religion = sunni
-		size = 20183
+		size = 18733
 	}
 	
 	aristocrats = {
@@ -446,7 +368,7 @@
 	slaves = {
 		culture = nigger
 		religion = animist
-		size = 300
+		size = 2300
 	}
 
 }
@@ -500,33 +422,39 @@
 	aristocrats = {
 		culture = nigger
 		religion = sunni
-		size = 200
+		size = 500
 	}
 
 	clergymen = {
 		culture = nigger
 		religion = sunni
-		size = 350
+		size = 450
 	}
 
 	artisans = {
 		culture = nigger
 		religion = sunni
-		size = 500
+		size = 2000
 	}
 
 	soldiers = {
 		culture = nigger
 		religion = sunni
-		size = 1000
+		size = 2000
+	}
+
+	bureaucrats = {
+		culture = nigger
+		religion = sunni
+		size = 100
 	}
 
 	farmers = {
 		culture = nigger
 		religion = sunni
-		size = 5000
+		size = 12246
 	}
-
+	
 	aristocrats = {
 		culture = bedouin
 		religion = sunni
@@ -556,43 +484,6 @@
 		religion = sunni
 		size = 7269
 	}
-	
-	
-	aristocrats = {
-		culture = nigger
-		religion = sunni
-		size = 300
-	}
-
-	clergymen = {
-		culture = nigger
-		religion = sunni
-		size = 100
-	}
-
-	bureaucrats = {
-		culture = nigger
-		religion = sunni
-		size = 100
-	}
-	
-	artisans = {
-		culture = nigger
-		religion = sunni
-		size = 1500
-	}
-
-	soldiers = {
-		culture = nigger
-		religion = sunni
-		size = 1000
-	}
-
-	farmers = {
-		culture = nigger
-		religion = sunni
-		size = 7246
-	}
 
 	slaves = {
 		culture = nigger
@@ -607,37 +498,25 @@
 	aristocrats = {
 		culture = nigger
 		religion = sunni
-		size = 300
+		size = 400
 	}
 
 	clergymen = {
 		culture = nigger
 		religion = sunni
-		size = 200
+		size = 300
 	}
 
 	artisans = {
 		culture = nigger
 		religion = sunni
-		size = 200
+		size = 400
 	}
 
 	soldiers = {
 		culture = nigger
 		religion = sunni
-		size = 300
-	}
-
-	farmers = {
-		culture = nigger
-		religion = sunni
-		size = 9216
-	}
-
-	aristocrats = {
-		culture = nigger
-		religion = sunni
-		size = 100
+		size = 500
 	}
 
 	bureaucrats = {
@@ -651,29 +530,11 @@
 		religion = sunni
 		size = 100
 	}
-
-	clergymen = {
-		culture = nigger
-		religion = sunni
-		size = 100
-	}
-
-	artisans = {
-		culture = nigger
-		religion = sunni
-		size = 200
-	}
-
-	soldiers = {
-		culture = nigger
-		religion = sunni
-		size = 200
-	}
-
+	
 	farmers = {
 		culture = nigger
 		religion = sunni
-		size = 15010
+		size = 24226
 	}
 
 	slaves = {

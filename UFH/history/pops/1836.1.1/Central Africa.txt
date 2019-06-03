@@ -102,199 +102,13 @@
 	aristocrats = {
 		culture = nigger
 		religion = animist
-		size = 75
+		size = 125
 	}
 
 	clergymen = {
 		culture = nigger
 		religion = animist
-		size = 100
-	}
-
-	artisans = {
-		culture = nigger
-		religion = animist
-		size = 500
-	}
-
-	soldiers = {
-		culture = nigger
-		religion = animist
-		size = 100
-	}
-
-	farmers = {
-		culture = nigger
-		religion = animist
-		size = 9125
-	}
-
-	aristocrats = {
-		culture = nigger
-		religion = sunni
-		size = 10
-	}
-
-	clergymen = {
-		culture = nigger
-		religion = sunni
-		size = 25
-	}
-
-	artisans = {
-		culture = nigger
-		religion = sunni
-		size = 50
-	}
-
-	soldiers = {
-		culture = nigger
-		religion = sunni
-		size = 15
-	}
-
-	farmers = {
-		culture = nigger
-		religion = sunni
-		size = 900
-	}
-
-	aristocrats = {
-		culture = nigger
-		religion = animist
-		size = 50
-	}
-
-	clergymen = {
-		culture = nigger
-		religion = animist
-		size = 75
-	}
-
-	artisans = {
-		culture = nigger
-		religion = animist
-		size = 150
-	}
-
-	soldiers = {
-		culture = nigger
-		religion = animist
-		size = 25
-	}
-
-	farmers = {
-		culture = nigger
-		religion = animist
-		size = 2700
-	}
-}
-#Dar Banda Region (128000)
-#uncolonized in 1836/under influence of Azande
-#Zemio (44000/11000 POPS)
-1969 = {
-	aristocrats = {
-		culture = nigger
-		religion = animist
-		size = 100
-	}
-
-	clergymen = {
-		culture = nigger
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = nigger
-		religion = animist
-		size = 300
-	}
-
-	soldiers = {
-		culture = nigger
-		religion = animist
-		size = 75
-	}
-
-	farmers = {
-		culture = nigger
-		religion = animist
-		size = 5475
-	}
-
-	aristocrats = {
-		culture = nigger
-		religion = animist
-		size = 75
-	}
-
-	clergymen = {
-		culture = nigger
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = nigger
-		religion = animist
-		size = 250
-	}
-
-	soldiers = {
-		culture = nigger
-		religion = animist
-		size = 50
-	}
-
-	farmers = {
-		culture = nigger
-		religion = animist
-		size = 4575
-	}
-}
-#Bangassou (56000/14000 POPS)
-1970 = {
-	aristocrats = {
-		culture = nigger
-		religion = animist
-		size = 10
-	}
-
-	clergymen = {
-		culture = nigger
-		religion = animist
-		size = 25
-	}
-
-	artisans = {
-		culture = nigger
-		religion = animist
-		size = 50
-	}
-
-	soldiers = {
-		culture = nigger
-		religion = animist
-		size = 15
-	}
-
-	farmers = {
-		culture = nigger
-		religion = animist
-		size = 900
-	}
-
-	aristocrats = {
-		culture = nigger
-		religion = animist
-		size = 225
-	}
-
-	clergymen = {
-		culture = nigger
-		religion = animist
-		size = 150
+		size = 175
 	}
 
 	artisans = {
@@ -306,13 +120,109 @@
 	soldiers = {
 		culture = nigger
 		religion = animist
-		size = 150
+		size = 125
 	}
 
 	farmers = {
 		culture = nigger
 		religion = animist
-		size = 11875
+		size = 11825
+	}
+	
+	aristocrats = {
+		culture = nigger
+		religion = sunni
+		size = 10
+	}
+
+	clergymen = {
+		culture = nigger
+		religion = sunni
+		size = 25
+	}
+
+	artisans = {
+		culture = nigger
+		religion = sunni
+		size = 50
+	}
+
+	soldiers = {
+		culture = nigger
+		religion = sunni
+		size = 15
+	}
+
+	farmers = {
+		culture = nigger
+		religion = sunni
+		size = 900
+	}
+}
+#Dar Banda Region (128000)
+#uncolonized in 1836/under influence of Azande
+#Zemio (44000/11000 POPS)
+1969 = {
+	aristocrats = {
+		culture = nigger
+		religion = animist
+		size = 175
+	}
+
+	clergymen = {
+		culture = nigger
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = nigger
+		religion = animist
+		size = 550
+	}
+
+	soldiers = {
+		culture = nigger
+		religion = animist
+		size = 125
+	}
+
+	farmers = {
+		culture = nigger
+		religion = animist
+		size = 10050
+	}
+}
+#Bangassou (56000/14000 POPS)
+1970 = {
+	aristocrats = {
+		culture = nigger
+		religion = animist
+		size = 235
+	}
+
+	clergymen = {
+		culture = nigger
+		religion = animist
+		size = 175
+	}
+
+	artisans = {
+		culture = nigger
+		religion = animist
+		size = 700
+	}
+
+	soldiers = {
+		culture = nigger
+		religion = animist
+		size = 165
+	}
+
+	farmers = {
+		culture = nigger
+		religion = animist
+		size = 12075
 	}
 }
 #uncolonized in 1836/under influence of Wadai

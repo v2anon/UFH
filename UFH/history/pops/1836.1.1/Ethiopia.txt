@@ -5,7 +5,7 @@
 	aristocrats = {
 		culture = nigger
 		religion = coptic
-		size = 2100
+		size = 2875
 	}
 
 	bureaucrats = {
@@ -17,31 +17,31 @@
 	officers = {
 		culture = nigger
 		religion = coptic
-		size = 420
+		size = 670
 	}
 
 	clergymen = {
 		culture = nigger
 		religion = coptic
-		size = 1155
+		size = 1505
 	}
 
 	artisans = {
 		culture = nigger
 		religion = coptic
-		size = 5650
+		size = 7300
 	}
 
 	soldiers = {
 		culture = nigger
 		religion = coptic
-		size = 2020
+		size = 5020
 	}
 
 	farmers = {
 		culture = nigger
 		religion = coptic
-		size = 90000
+		size = 120900
 	}
 
 	slaves = {
@@ -49,7 +49,13 @@
 		religion = coptic
 		size = 11200
 	}
-
+	
+	slaves = {
+		culture = nigger
+		religion = animist
+		size = 3800
+	}
+	
 	aristocrats = {
 		culture = nigger
 		religion = jewish
@@ -80,67 +86,25 @@
 		size = 7630
 	}
 
-	aristocrats = {
-		culture = nigger
-		religion = coptic
-		size = 775
-	}
-
-	officers = {
-		culture = nigger
-		religion = coptic
-		size = 250
-	}
-
-	clergymen = {
-		culture = nigger
-		religion = coptic
-		size = 350
-	}
-
-	artisans = {
-		culture = nigger
-		religion = animist
-		size = 1650
-	}
-
-	farmers = {
-		culture = nigger
-		religion = coptic
-		size = 30900
-	}
-	
-	soldiers = {
-		culture = nigger
-		religion = coptic
-		size = 3000
-	}
-	
-
-	slaves = {
-		culture = nigger
-		religion = animist
-		size = 3800
-	}
 }
 #Debre Tabor (656000/164000 POPS)
 1853 = {
 	aristocrats = {
 		culture = nigger
 		religion = coptic
-		size = 1400
+		size = 3200
 	}
 
 	clergymen = {
 		culture = nigger
 		religion = coptic
-		size = 700
+		size = 1640
 	}
 
 	artisans = {
 		culture = nigger
 		religion = coptic
-		size = 2900
+		size = 7710
 	}
 
 	soldiers = {
@@ -152,37 +116,13 @@
 	farmers = {
 		culture = nigger
 		religion = coptic
-		size = 52000
+		size = 119750
 	}
 
 	slaves = {
 		culture = nigger
 		religion = coptic
 		size = 10000
-	}
-
-	aristocrats = {
-		culture = nigger
-		religion = coptic
-		size = 1800
-	}
-
-	clergymen = {
-		culture = nigger
-		religion = coptic
-		size = 940
-	}
-
-	artisans = {
-		culture = nigger
-		religion = coptic
-		size = 4810
-	}
-
-	farmers = {
-		culture = nigger
-		religion = coptic
-		size = 67750
 	}
 
 	slaves = {
@@ -300,13 +240,13 @@
 	aristocrats = {
 		culture = nigger
 		religion = coptic
-		size = 1450
+		size = 5350
 	}
 
 	clergymen = {
 		culture = nigger
 		religion = coptic
-		size = 760
+		size = 2760
 	}
 
 	artisans = {
@@ -318,13 +258,7 @@
 	soldiers = {
 		culture = nigger
 		religion = coptic
-		size = 1740
-	}
-
-	farmers = {
-		culture = nigger
-		religion = coptic
-		size = 61000
+		size = 6040
 	}
 
 	slaves = {
@@ -333,40 +267,16 @@
 		size = 7000
 	}
 
-	aristocrats = {
-		culture = nigger
-		religion = coptic
-		size = 3900
-	}
-
-	clergymen = {
-		culture = nigger
-		religion = coptic
-		size = 2000
-	}
-
 	artisans = {
 		culture = nigger
 		religion = animist
 		size = 8000
 	}
 
-	soldiers = {
-		culture = nigger
-		religion = coptic
-		size = 3000
-	}
-
-	soldiers = {
-		culture = nigger
-		religion = coptic
-		size = 1300
-	}
-
 	farmers = {
 		culture = nigger
 		religion = coptic
-		size = 170000
+		size = 231000
 	}
 
 	slaves = {
@@ -382,7 +292,7 @@
 	aristocrats = {
 		culture = nigger
 		religion = coptic
-		size = 800
+		size = 870
 	}
 
 	bureaucrats = {
@@ -394,73 +304,37 @@
 	officers = {
 		culture = nigger
 		religion = coptic
-		size = 70
+		size = 105
 	}
 
 	clergymen = {
 		culture = nigger
 		religion = coptic
-		size = 420
+		size = 490
 	}
 
 	artisans = {
 		culture = nigger
 		religion = coptic
-		size = 1750
+		size = 2030
 	}
 
 	soldiers = {
 		culture = nigger
 		religion = coptic
-		size = 2400
+		size = 2470
 	}
 
 	farmers = {
 		culture = nigger
 		religion = coptic
-		size = 29485
+		size = 34560
 	}
 
 	slaves = {
 		culture = nigger
 		religion = coptic
 		size = 7000
-	}
-
-	aristocrats = {
-		culture = nigger
-		religion = coptic
-		size = 70
-	}
-
-	officers = {
-		culture = nigger
-		religion = coptic
-		size = 35
-	}
-
-	clergymen = {
-		culture = nigger
-		religion = coptic
-		size = 70
-	}
-
-	artisans = {
-		culture = nigger
-		religion = coptic
-		size = 280
-	}
-
-	soldiers = {
-		culture = nigger
-		religion = coptic
-		size = 70
-	}
-
-	farmers = {
-		culture = nigger
-		religion = coptic
-		size = 5075
 	}
 
 	slaves = {
@@ -582,127 +456,49 @@
 	aristocrats = {
 		culture = nigger
 		religion = coptic
-		size = 11175
+		size = 14400
 	}
 
 	bureaucrats = {
 		culture = nigger
 		religion = coptic
-		size = 665
+		size = 845
 	}
 
 	officers = {
 		culture = nigger
 		religion = coptic
-		size = 660
+		size = 1260
 	}
 
 	clergymen = {
 		culture = nigger
 		religion = coptic
-		size = 5700
-	}
-
-	artisans = {
-		culture = nigger
-		religion = coptic
-		size = 10000
+		size = 7430
 	}
 	
 	artisans = {
 		culture = nigger
 		religion = coptic
-		size = 10000
-	}
-	
-	artisans = {
-		culture = nigger
-		religion = coptic
-		size = 2800
+		size = 29700
 	}
 
 	soldiers = {
 		culture = nigger
 		religion = coptic
-		size = 3000
-	}
-
-	soldiers = {
-		culture = nigger
-		religion = coptic
-		size = 3000
-	}
-
-	soldiers = {
-		culture = nigger
-		religion = coptic
-		size = 3000
-	}
-
-	soldiers = {
-		culture = nigger
-		religion = coptic
-		size = 3000
+		size = 14065
 	}
 
 	farmers = {
 		culture = nigger
 		religion = coptic
-		size = 62400
+		size = 172400
 	}
 
 	slaves = {
 		culture = nigger
 		religion = coptic
-		size = 21600
-	}
-
-	aristocrats = {
-		culture = nigger
-		religion = coptic
-		size = 3225
-	}
-
-	bureaucrats = {
-		culture = nigger
-		religion = coptic
-		size = 180
-	}
-
-	officers = {
-		culture = nigger
-		religion = coptic
-		size = 600
-	}
-
-	clergymen = {
-		culture = nigger
-		religion = coptic
-		size = 1730
-	}
-
-	artisans = {
-		culture = nigger
-		religion = coptic
-		size = 6900
-	}
-
-	soldiers = {
-		culture = nigger
-		religion = coptic
-		size = 2065
-	}
-
-	farmers = {
-		culture = nigger
-		religion = coptic
-		size = 110000
-	}
-
-	slaves = {
-		culture = nigger
-		religion = coptic
-		size = 57300
+		size = 78900
 	}
 }
 #Awasa (448000/115000 POPS)
@@ -710,19 +506,19 @@
 	aristocrats = {
 		culture = nigger
 		religion = coptic
-		size = 925
+		size = 2250
 	}
 
 	clergymen = {
 		culture = nigger
 		religion = coptic
-		size = 475
+		size = 1150
 	}
 
 	artisans = {
 		culture = nigger
 		religion = coptic
-		size = 1900
+		size = 4625
 	}
 
 	soldiers = {
@@ -734,43 +530,13 @@
 	farmers = {
 		culture = nigger
 		religion = coptic
-		size = 40225
+		size = 93525
 	}
 
 	slaves = {
 		culture = nigger
 		religion = coptic
-		size = 3000
-	}
-
-	aristocrats = {
-		culture = nigger
-		religion = coptic
-		size = 1325
-	}
-
-	clergymen = {
-		culture = nigger
-		religion = coptic
-		size = 675
-	}
-
-	artisans = {
-		culture = nigger
-		religion = coptic
-		size = 2725
-	}
-
-	farmers = {
-		culture = nigger
-		religion = coptic
-		size = 53300
-	}
-
-	slaves = {
-		culture = nigger
-		religion = coptic
-		size = 10000
+		size = 13000
 	}
 }
 #Aselia (384000/96000 POPS)
@@ -778,67 +544,37 @@
 	aristocrats = {
 		culture = nigger
 		religion = coptic
-		size = 600
+		size = 1850
 	}
 
 	clergymen = {
 		culture = nigger
 		religion = coptic
-		size = 300
+		size = 950
 	}
 
 	artisans = {
 		culture = nigger
 		religion = coptic
-		size = 1250
+		size = 3900
 	}
 
 	soldiers = {
 		culture = nigger
 		religion = coptic
-		size = 325
+		size = 775
 	}
 
 	farmers = {
 		culture = nigger
 		religion = coptic
-		size = 26525
+		size = 76525
 	}
 
 	slaves = {
 		culture = nigger
 		religion = coptic
 		size = 2000
-	}
-
-	aristocrats = {
-		culture = nigger
-		religion = coptic
-		size = 1250
-	}
-
-	clergymen = {
-		culture = nigger
-		religion = coptic
-		size = 650
-	}
-
-	artisans = {
-		culture = nigger
-		religion = coptic
-		size = 2650
-	}
-
-	soldiers = {
-		culture = nigger
-		religion = coptic
-		size = 450
-	}
-
-	farmers = {
-		culture = nigger
-		religion = coptic
-		size = 50000
 	}
 
 	slaves = {
@@ -911,15 +647,11 @@
 }
 #Asosa (756000/189000 POPS)
 1863 = {
+	
 	aristocrats = {
 		culture = nigger
 		religion = coptic
-		size = 200
-	}
-	aristocrats = {
-		culture = nigger
-		religion = coptic
-		size = 840
+		size = 1040
 	}
 
 	clergymen = {
@@ -937,22 +669,12 @@
 	soldiers = {
 		culture = nigger
 		religion = coptic
-		size = 1100
-	}
-	soldiers = {
-		culture = nigger
-		religion = coptic
-		size = 4000
+		size = 5100
 	}
 	farmers = {
 		culture = nigger
 		religion = coptic
-		size = 20850
-	}
-	farmers = {
-		culture = nigger
-		religion = coptic
-		size = 5000
+		size = 25850
 	}
 
 	slaves = {
@@ -960,71 +682,41 @@
 		religion = coptic
 		size = 6000
 	}
-
+	
 	aristocrats = {
 		culture = nigger
 		religion = animist
-		size = 1650
+		size = 2530
 	}
 
 	clergymen = {
 		culture = nigger
 		religion = animist
-		size = 835
+		size = 1270
 	}
 
 	artisans = {
 		culture = nigger
 		religion = animist
-		size = 3350
+		size = 5600
 	}
 
 	soldiers = {
 		culture = nigger
 		religion = animist
-		size = 240
+		size = 675
 	}
 
 	farmers = {
 		culture = nigger
 		religion = animist
-		size = 57500
+		size = 98500
 	}
 
 	slaves = {
 		culture = nigger
 		religion = animist
 		size = 49425
-	}
-
-	aristocrats = {
-		culture = nigger
-		religion = animist
-		size = 880
-	}
-
-	clergymen = {
-		culture = nigger
-		religion = animist
-		size = 435
-	}
-
-	artisans = {
-		culture = nigger
-		religion = animist
-		size = 2250
-	}
-
-	soldiers = {
-		culture = nigger
-		religion = animist
-		size = 435
-	}
-
-	farmers = {
-		culture = nigger
-		religion = animist
-		size = 41000
 	}
 }
 #Negele (720000/180000 POPS)
@@ -1108,7 +800,7 @@
 	aristocrats = {
 		culture = nigger
 		religion = sunni
-		size = 910
+		size = 2160
 	}
 
 	bureaucrats = {
@@ -1126,85 +818,25 @@
 	clergymen = {
 		culture = nigger
 		religion = sunni
-		size = 485
+		size = 1125
 	}
 
 	artisans = {
 		culture = nigger
 		religion = sunni
-		size = 1900
+		size = 5000
 	}
 
 	soldiers = {
 		culture = nigger
 		religion = sunni
-		size = 450
+		size = 795
 	}
 
 	farmers = {
 		culture = nigger
 		religion = sunni
-		size = 29215
-	}
-
-	aristocrats = {
-		culture = nigger
-		religion = sunni
-		size = 300
-	}
-
-	clergymen = {
-		culture = nigger
-		religion = sunni
-		size = 165
-	}
-
-	artisans = {
-		culture = nigger
-		religion = sunni
-		size = 700
-	}
-
-	soldiers = {
-		culture = nigger
-		religion = sunni
-		size = 170
-	}
-
-	farmers = {
-		culture = nigger
-		religion = sunni
-		size = 2665
-	}
-
-	aristocrats = {
-		culture = nigger
-		religion = sunni
-		size = 950
-	}
-
-	clergymen = {
-		culture = nigger
-		religion = sunni
-		size = 475
-	}
-
-	artisans = {
-		culture = nigger
-		religion = sunni
-		size = 2400
-	}
-
-	soldiers = {
-		culture = nigger
-		religion = sunni
-		size = 175
-	}
-
-	farmers = {
-		culture = nigger
-		religion = sunni
-		size = 42800
+		size = 74680
 	}
 
 	slaves = {
@@ -1255,61 +887,31 @@
 	aristocrats = {
 		culture = nigger
 		religion = sunni
-		size = 625
+		size = 800
 	}
 
 	clergymen = {
 		culture = nigger
 		religion = sunni
-		size = 325
+		size = 475
 	}
 
 	artisans = {
 		culture = nigger
 		religion = sunni
-		size = 1600
+		size = 2350
 	}
 
 	soldiers = {
 		culture = nigger
 		religion = sunni
-		size = 1050
+		size = 1200
 	}
 
 	farmers = {
 		culture = nigger
 		religion = sunni
-		size = 28500
-	}
-
-	aristocrats = {
-		culture = nigger
-		religion = sunni
-		size = 275
-	}
-
-	clergymen = {
-		culture = nigger
-		religion = sunni
-		size = 150
-	}
-
-	artisans = {
-		culture = nigger
-		religion = sunni
-		size = 750
-	}
-
-	soldiers = {
-		culture = nigger
-		religion = sunni
-		size = 150
-	}
-
-	farmers = {
-		culture = nigger
-		religion = sunni
-		size = 13575
+		size = 42075
 	}
 }
 #Werder (328000/82000 POPS)
@@ -1317,64 +919,34 @@
 	aristocrats = {
 		culture = nigger
 		religion = sunni
-		size = 275
+		size = 1575
 	}
 
 	clergymen = {
 		culture = nigger
 		religion = sunni
-		size = 150
+		size = 9250
 	}
 
 	artisans = {
 		culture = nigger
 		religion = sunni
-		size = 750
+		size = 3425
 	}
 
 	soldiers = {
 		culture = nigger
 		religion = sunni
-		size = 150
+		size = 1400
 	}
 
 	farmers = {
 		culture = nigger
 		religion = sunni
-		size = 13675
-	}
-
-	aristocrats = {
-		culture = nigger
-		religion = sunni
-		size = 1300
-	}
-
-	clergymen = {
-		culture = nigger
-		religion = sunni
-		size = 775
-	}
-
-	artisans = {
-		culture = nigger
-		religion = sunni
-		size = 2675
-	}
-
-	soldiers = {
-		culture = nigger
-		religion = sunni
-		size = 1250
-	}
-
-	farmers = {
-		culture = nigger
-		religion = sunni
-		size = 37000
+		size = 50675
 	}
 	
-		farmers = {
+	farmers = {
 		culture = nigger
 		religion = animist
 		size = 20000
